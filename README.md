@@ -1,11 +1,18 @@
 # Hi! I'm Marian 👋
 
+I'm a front-end developer from Ukraine
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-mdport/mdport is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## :rocket: My skills:
+
+<pre>
+- HTML5, CSS3 (SCSS)       ⭐️⭐️⭐️⭐️⭐️
+- JavaScript, jQuery       ⭐️⭐️⭐️
+- Angular, Vue, React      ⭐️
+- Gulp, Prepros            ⭐️⭐️⭐️⭐️
+- WordPress and other CMS  ⭐️
+</pre>
