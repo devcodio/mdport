@@ -1,4 +1,4 @@
-# 👋 Hi, my namw is **Marian**!
+# 👋 Hi, my name is **Marian**!
 
 ## I'm a beginner *Front-end developer* from Ukraine.
 
