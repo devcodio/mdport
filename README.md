@@ -8,7 +8,7 @@
 - 📫 How to reach me ...
 
 ### Check my blog: [kharandzyuk](https://www.instagram.com/kharandzyuk/)
-### Check my website: [MdPort](https://mdport.pp.ua)
+### Check my website: [MdPort](https://mdport.com.ua)
 
 ## :rocket: My skills:
 
